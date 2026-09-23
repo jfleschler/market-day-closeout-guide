@@ -22,4 +22,8 @@ Subtract opening cash from closing cash to estimate cash sales. Add card and oth
 
 A difference is a prompt to review, not an accusation or a profit figure. Discounts, bundles, variable weights, payment timing, tax entry, and counting mistakes can affect it. Keep original payment records for bookkeeping. A market-day closeout is an operational aid, not accounting or tax advice.
 
+## Editable closeout kit
+
+If you want a workbook that calculates sold units, list-price sales, cash sales, and the difference from receipts, the [Farmers Market Produce Count & Cash Closeout Kit](https://payhip.com/b/JVBcj) is a $9 one-time digital download. It includes an editable Excel workbook, this printable field sheet, and a quick-start guide. It has no subscription or account connection. See the [refund and support policy](https://payhip.com/marketdaycloseout/refunds-and-support) before buying.
+
 This original guide and field sheet were made with AI assistance and manually reviewed. The source for an optional static version of this guide is in `docs/`. No visitor tracking or customer data collection is installed.
